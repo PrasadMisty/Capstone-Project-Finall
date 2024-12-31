@@ -9,6 +9,7 @@ import joblib
 import pandas as pd
 import os
 import requests
+from io import BytesIO
 
 # Load the model
 #model_path = os.path.join(os.getcwd(), 'Saved Model\\fraud_detection_model.joblib')
