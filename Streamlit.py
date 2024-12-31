@@ -8,6 +8,7 @@ import streamlit as st
 import joblib
 import pandas as pd
 import os
+import requests
 
 # Load the model
 #model_path = os.path.join(os.getcwd(), 'Saved Model\\fraud_detection_model.joblib')
