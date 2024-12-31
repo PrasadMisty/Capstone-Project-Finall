@@ -11,7 +11,8 @@ import os
 
 # Load the model
 #model_path = os.path.join(os.getcwd(), 'Saved Model\\fraud_detection_model.joblib')
-model = joblib.load('https://github.com/PrasadMisty/Capstone-Project-Finall/blob/master/Saved%20Model/fraud_detection_model.joblib')
+model_url = 'https://raw.githubusercontent.com/PrasadMisty/Capstone-Project-Finall/master/Saved%20Model/fraud_detection_model.joblib'
+model = joblib.load(model_url)
 
 # Streamlit app
 st.title("Fraud Detection Prediction")
