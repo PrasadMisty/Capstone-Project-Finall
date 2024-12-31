@@ -7,3 +7,4 @@ imblearn
 joblib
 streamlit
 scipy
+requests
