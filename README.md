@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Credit Card Fraud Detection Project
 
 ## Introduction
@@ -75,4 +74,3 @@ Scalable Preprocessing: Scaling ensures that features contribute equally to the 
 
 ### Conclusion
 This comprehensive approach ensures that the models are well-prepared to handle the challenges of fraud detection, including class imbalance and feature scaling.
->>>>>>> end of conflict marker
