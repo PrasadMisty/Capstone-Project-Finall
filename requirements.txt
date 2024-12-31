@@ -8,3 +8,4 @@ joblib
 streamlit
 scipy
 requests
+io
